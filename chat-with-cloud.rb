@@ -1,4 +1,4 @@
-class ExampleApp < Formula
+class ChatWithCloud < Formula
   desc "CLI allowing you to interact with AWS Cloud using human language inside your Terminal thanks to generative AI."
   homepage "https://chatwithcloud.ai"
   url "https://github.com/ChatWithCloud/homebrew/releases/download/0.3.2/chatwithcloud"
